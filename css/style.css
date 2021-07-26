@@ -1,0 +1,228 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* right section */
+
+.right-section-content {
+  padding: 100px 90px;
+}
+
+/* about my wife */
+.about-my-wife {
+  margin: 0 0 40px 0;
+}
+
+.about-profession {
+  font-weight: 700;
+  color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  margin: 0 0 20px 0;
+}
+
+.name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin: 0 0 25px 0;
+}
+
+.about-Ira-description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 400px;
+}
+
+.right-section-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+.projects-section {
+  margin: 0 0 50px 0;
+}
+
+.projects-list {
+  padding: 0 0 0 15px;
+}
+
+.projects-link {
+  color: #595959;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.projects-text {
+  color: #595959;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 8px;
+}
+
+.projects-bracket {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+}
+
+.projects-item {
+  color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.work-experience-accent {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+.work-experience-position {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000;
+  margin: 0 0 10px 0;
+}
+
+.work-experience-company-block {
+  margin: 0 0 15px 0;
+}
+
+.period {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  font-style: normal;
+  color: #a8a8a8;
+  margin: 0 0 10px 0;
+}
+
+.line {
+  color: #000;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.work-experience-duties {
+  padding: 0 0 0 14px;
+}
+
+.work-experience-duty {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+.education {
+  margin: 40px 0 0 0;
+}
+
+.education-specialty {
+  margin: 10px 0 10px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+}
+
+/* side bar section */
+.side-bar {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0;
+}
+
+.photo-img {
+  width: 370px;
+}
+
+.contacts-section,
+.tech-skills {
+  margin: 50px 0 0 40px;
+}
+
+.soft-skills {
+  margin: 45px 0 0 40px;
+}
+
+.side-bar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.contacts-section-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 7px;
+}
+
+.contacts-section-linc {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  opacity: 50%;
+}
+
+.skills-list {
+  padding: 0 0 0 17px;
+}
+
+.skills-item {
+  color: #fb6d3a;
+}
+
+.skills-item-text {
+  color: #fff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
